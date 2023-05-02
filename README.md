@@ -1,5 +1,6 @@
-# BlockChain-in-JAVA
-Certainly! The Java package `java.security.MessageDigest` provides functionality for cryptographic hashing algorithms, which are essential components of blockchain technology. Here's a brief description of how it can be used in implementing a simple blockchain mechanism using Java:
+# BlockChain in JAVA
+
+The Java package `java.security.MessageDigest` provides functionality for cryptographic hashing algorithms, which are essential components of blockchain technology. Here's a brief description of how it can be used in implementing a simple blockchain mechanism using Java:
 
 1. **Block Structure:** In a blockchain, data is stored in blocks, which are linked together using cryptographic hashes. Each block typically consists of data, a timestamp, a previous block's hash, and its own hash.
 
@@ -15,5 +16,5 @@ Certainly! The Java package `java.security.MessageDigest` provides functionality
 
 By utilizing the `java.security.MessageDigest` package, you can implement the core hashing functionality required for building a simple blockchain mechanism in Java. Remember that this is just a brief overview, and there are various additional considerations and complexities involved in a real-world blockchain implementation.
 
-## Here i implement the mechanism of blockchain by JAVA. You can see my tutorial on this topic here  
-          https://www.youtube.com/watch?v=7j1Gamwqc7Y&amp;t=3s
+## You can see my tutorial on this topic here  
+      https://www.youtube.com/watch?v=7j1Gamwqc7Y&amp;t=3s
